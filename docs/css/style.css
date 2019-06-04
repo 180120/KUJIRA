@@ -2,9 +2,9 @@
 
 /* すべてのWebページに適用される */
 body {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #D4E0E1;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -57,9 +57,9 @@ img {
 	padding-right: 30px;
 }
 #nav {
-	margin: 0 0 0 0;
-	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+    margin: 0 0 0 0;
+    padding: 15px 30px 10px 30px;
+    background-image: url(../images/navi.png);
 }
 #nav li a:link {
 	color: #f5f3eb;
@@ -70,22 +70,22 @@ img {
 	text-decoration: none;
 }
 #nav li a:hover {
-	color: #e4dbb9;
-	text-decoration: none;
+    color: #095C68;
+    text-decoration: none;
 }
 #nav li a:active {
-	color: #ffffff;
-	text-decoration: none;
+    color: #043E46;
+    text-decoration: none;
 }
 
 /* すべてのページに適用 - footer - */
 #footer{
-	background-image: url(../images/footer-bg.png);
-	background-repeat: repeat-x;
-	margin-top: 30px;
-	padding:20px 0 20px 0;
-	font-size: smaller;
-	color: #442220;
+    background-image: url(../images/footer-teapod.png);
+    background-repeat: repeat-x;
+    margin-top: 30px;
+    padding: 20px 0 20px 0;
+    font-size: smaller;
+    color: #442220;
 }
 
 /* 個別のスタイル */
