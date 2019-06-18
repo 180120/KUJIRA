@@ -73,6 +73,10 @@ img {
     color: #095C68;
     text-decoration: none;
 }
+#nav_spe li a:hover {
+    color: #D046B6;
+    text-decoration: none;
+}
 #nav li a:active {
     color: #043E46;
     text-decoration: none;
@@ -110,14 +114,14 @@ table.info {
 	border: 1px solid #b78c5f;
 }
 table.info th, table.info td {
-	padding: 8px 8px 8px 8px;
-	border: 1px solid #d6c2b5;
-	text-align: left;
-	vertical-align: middle;
+    padding: 8px 8px 8px 8px;
+    border: 1px solid #018EA0;
+    text-align: left;
+    vertical-align: middle;
 }
 table.info th {
-	background-color: #c99e73;
-	color: #442220;
+    background-color: #018ea0;
+    color: #442220;
 }
 
 /* menu.html */
